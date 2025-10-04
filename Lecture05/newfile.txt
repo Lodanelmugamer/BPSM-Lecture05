@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is text from master
+=======
+This is a line from conflict
+>>>>>>> conflict
