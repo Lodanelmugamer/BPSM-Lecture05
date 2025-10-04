@@ -1,0 +1,17 @@
+# Ignore future lecture folders
+Lecture06/
+Lecture07/
+
+# Ignore personal message folders
+message_to_al/
+
+# Ignore system or temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore Python cache (if any)
+__pycache__/
+*.pyc
+
