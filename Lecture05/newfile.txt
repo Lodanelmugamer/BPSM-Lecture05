@@ -1,1 +1,1 @@
-This line merges both versions successfully.
+This is text from master
